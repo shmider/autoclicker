@@ -1,6 +1,6 @@
 # Auto Clicker
 
-Auto Clicker is a small tool for windows to simulate mouse click. This tool also support sending text and key pressing combination. 
+Auto-Clicker is a small tool for windows to simulate a mouse click. This tool also supports sending text and key pressing combinations.
 
 ![AutoClicker](https://user-images.githubusercontent.com/12503476/145879301-a26fb7fd-416a-4e8f-8cb6-c07d5d283a10.png)
 
