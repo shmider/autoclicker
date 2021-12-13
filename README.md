@@ -38,6 +38,6 @@ Auto Clicker Features:
 </ul>
 
 
-I desided to upload the tool source code to here for others that might want to develop a auto clicker will have a starting point.
+I decided to upload the tool source code here for others that might want to develop an auto clicker that will have a starting point.
 
 
